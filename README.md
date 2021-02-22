@@ -2,7 +2,7 @@
 
 ### IMPORTANT :warning:
 
-Your files get **replaced** with the compressed ones. Make a **backup** if you want to keep the original sized files.
+Your images get **replaced** with the compressed ones. Make a **backup** if you want to keep the original sized files.
 
 ## Requirements
 
