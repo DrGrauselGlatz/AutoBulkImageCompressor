@@ -7,7 +7,7 @@ Your files get **replaced** with the compressed ones. Make a **backup** if you w
 ## Requirements
 
 - Windows OS
-- npm installed
+- npm installed (https://www.npmjs.com/get-npm)
 
 ## Installation
 
