@@ -1,4 +1,4 @@
-# AutoBulkImageResizer for Windows
+# AutoBulkImageCompressor for Windows
 
 ## Requirements
 
